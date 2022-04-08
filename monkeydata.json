@@ -1,7 +1,7 @@
 ﻿[
   {
-    "Name": "Baboons",
-    "Location": "Africa & Asia",
+    "Name": "Baboon",
+    "Location": "Africa & Asiases",
     "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
     "Population": 10000,
@@ -9,7 +9,7 @@
     "Longitude": 34.508523
   },
   {
-    "Name": "Capuchin Monkeys",
+    "Name": "Capuchin Monkey",
     "Location": "Central & South America",
     "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
@@ -18,7 +18,7 @@
     "Longitude": -85.602364
   },
   {
-    "Name": "Blue Monkeys",
+    "Name": "Blue Monkey",
     "Location": "Central and East Africa",
     "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
@@ -27,7 +27,7 @@
     "Longitude": 37.297204
   },
   {
-    "Name": "Squirrel Monkeys",
+    "Name": "Squirrel Monkey",
     "Location": "Central & South America",
     "Details": "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae. The name of the genus Saimiri is of Tupi origin, and was also used as an English name by early researchers.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg",
@@ -36,7 +36,7 @@
     "Longitude": -55.491477
   },
   {
-    "Name": "Golden Lion Tamarins",
+    "Name": "Golden Lion Tamarin",
     "Location": "Brazil",
     "Details": "The golden lion tamarin also known as the golden marmoset, is a small New World monkey of the family Callitrichidae.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
@@ -45,7 +45,7 @@
     "Longitude": -51.92528
   },
   {
-    "Name": "Howler Monkeys",
+    "Name": "Howler Monkey",
     "Location": "South America",
     "Details": "Howler monkeys are among the largest of the New World monkeys. Fifteen species are currently recognised. Previously classified in the family Cebidae, they are now placed in the family Atelidae.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
@@ -63,7 +63,7 @@
     "Longitude": 138.252924
   },
   {
-    "Name": "Mandrills",
+    "Name": "Mandrill",
     "Location": "Southern Cameroon, Gabon, and Congo",
     "Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/mandrill.jpg",
@@ -72,7 +72,7 @@
     "Longitude": 12.354722
   },
   {
-    "Name": "Proboscis Monkeys",
+    "Name": "Proboscis Monkey",
     "Location": "Borneo",
     "Details": "The proboscis monkey or long-nosed monkey, known as the bekantan in Malay, is a reddish-brown arboreal Old World monkey that is endemic to the south-east Asian island of Borneo.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/borneo.jpg",
